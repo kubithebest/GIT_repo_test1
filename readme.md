@@ -1,1 +1,2 @@
 moje repozytorium
+Nowa linia
